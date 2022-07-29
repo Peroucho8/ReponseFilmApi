@@ -1,4 +1,4 @@
-package com.example.entrevueSSpringBoot.constant;
+package com.example.entrevueSpringBoot.constant;
 
 public final class ApiConstant {
 	

@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.entrevueSSpringBoot.constant.ApiConstant;
+import com.example.entrevueSpringBoot.constant.ApiConstant;
 import com.example.entrevueSpringBoot.dto.FilmDto;
 import com.example.entrevueSpringBoot.service.FilmService;
 
